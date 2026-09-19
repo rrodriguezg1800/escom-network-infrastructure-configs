@@ -1,7 +1,11 @@
 
 # Configuración Inicial y Enrutamiento L3 en Switch Dell Networking N1524P
 
-**Autor:** M. en T.A. José Fausto Romero Lujambio, Ing. Rodrigo Rodriguez Galindo
+**Autores:**
+
+>M. en T.A. José Fausto Romero Lujambio
+
+>Ing. Rodrigo Rodriguez Galindo
 
 **Entorno Operativo:** Arch Linux (Kernel 7.0.12) / Consola Serial / PC del Director de la UDI  
 **Hardware:** Switch Dell Networking N1524P (System Version 6.8.1.9)
