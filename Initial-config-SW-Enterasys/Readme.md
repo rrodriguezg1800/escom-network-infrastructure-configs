@@ -1,7 +1,9 @@
 
 # Configuración de Capa 2 y Administración de Switch Enterasys/Extreme Networks
 
-**Autor:** Rodrigo Rodríguez Galindo  
+**Autores:** 
+M. en T.A. José Fausto Romero Lujambio 
+Ing. Rodrigo Rodriguez Galindo  
 **Ubicación:** Unidad de Informática de la Escuela Superior de Cómputo (ESCOM - IPN)
 
 ## Descripción
